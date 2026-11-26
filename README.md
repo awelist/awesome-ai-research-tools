@@ -71,6 +71,7 @@ _Support ongoing maintenance and curation via [GitHub Sponsors](https://github.c
 - [ResearchRabbit](https://www.researchrabbit.ai/) – Visual discovery tool for academic literature networks.
 - [Scholarcy](https://www.scholarcy.com/) – AI assistant for summarizing research papers.
 - [ExplainPaper](https://www.explainpaper.com/) – Highlight sections of papers and get explanations.
+- [JournalCompass](https://journalcompass.com) – Free bilingual journal search across 43,499 journals, with impact factor, CAS zone, review time and APC, plus an AI journal matcher.
 
 ## Dataset Tools
 
